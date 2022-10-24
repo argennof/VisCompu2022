@@ -28,4 +28,3 @@ En este repositorio se encuentran las entregas con resultados correspondientes a
 
    - [x] Laboratorio 1: Breve introducción a ANN
    - [x] Laboratorio 2: Convolutional Neural Network (CNN)
-   - [x] Laboratorio n: xxxxxxxxxxx
